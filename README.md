@@ -9,7 +9,7 @@ Me chamo Eduarda Medeiros, tenho 18 anos e sou natural do Rio Grande do Norte. A
 ### 🔗 Contato
  
 <div> 
-  <a href = "mailto:dudamdemedeiros@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:dudamdemedeiros@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/eduarda-medeiros-4033b2333?trk=contact-info" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
@@ -29,20 +29,10 @@ Me chamo Eduarda Medeiros, tenho 18 anos e sou natural do Rio Grande do Norte. A
   ##
 
   ### 📊 Estatísticas
+<!--![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=duda-mm&cc=222&tc=fff&ic=fff&bc=000)-->
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=duda-mm&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=duda-mm&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+<p align="center">
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=duda-mm&bg_color=000000&title_color=a020f0&icon_color=a020f0&text_color=ffffff&border_color=a020f0&show_icons=true&include_all_commits=true&count_private=true" />
+  &nbsp;&nbsp;
+  <img height="1000" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=duda-mm&layout=compact&bg_color=000000&title_color=a020f0&text_color=ffffff&border_color=a020f0" />
 </p>
